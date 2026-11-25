@@ -1,6 +1,6 @@
 ## Olá, eu sou o Eduardo
 
-Desenvolvedor web em Viçosa (MG). Vim do design, então gosto de produto que funciona **e** tem uma interface bem resolvida.
+Desenvolvedor web na Universidade Federal de Viçoas (UFV) em Viçosa (MG). Vim do design, então gosto de produto que funciona **e** tem uma interface bem resolvida.
 Hoje cuido da TI do Departamento de Administração e Contabilidade da UFV, atendo clientes como freelancer e uso IA (Claude Code) todos os dias para ir da ideia ao deploy mais rápido.
 
 - Tecnólogo em Desenvolvimento Web (em conclusão), começando a pós em Matemática Computacional e Inteligência Artificial na UFV
